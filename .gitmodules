@@ -7,3 +7,6 @@
 [submodule "exercises/learning-cxx"]
 	path = exercises/learning-cxx
 	url = git@github.com:Lcollection/learning-cxx.git
+[submodule "exercises/exercises/learning-cxx"]
+	path = exercises/exercises/learning-cxx
+	url = git@github.com:Lcollection/learning-cxx.git
